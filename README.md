@@ -3,8 +3,8 @@
 
 This project is a response to [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/), as the encoding scheme used in the project...
 
-* All bytes are printable.
-* If input can be considered fully random, the ratio of total 1s among all bits fluctuates around 47.5%.
+* Get all bytes to be printable.
+* Has the ratio of total 1s among all bits fluctuates around 47.5%, if input can be considered fully random.
 
 ## API
 ### `Block95`
